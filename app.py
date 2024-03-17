@@ -43,5 +43,5 @@ submit=st.button("Tell me about the image")
 if submit:
     
     response=get_gemini_response(input,image)
-    st.subheader("The Response is")
+    st.subheader("The Response for the uploaded image is")
     st.write(response)
