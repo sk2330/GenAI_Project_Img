@@ -1,0 +1,1 @@
+## GenAI Project that takes images as an input and gives its findings from images and also an input prompt for queries regarding the image or simply put image summarization.
